@@ -2,4 +2,7 @@
 
 Utilisation : mv env.example .env  
 
-[slide](https://rawgit.com/david-dacruz/reveal.js/master/index.html)
+[Repository DotEnv Github](https://github.com/bkeepers/dotenv)
+
+
+[Slides de présentation](https://rawgit.com/david-dacruz/reveal.js/master/index.html)
